@@ -1,0 +1,48 @@
+midiName=midi\三輪車_不詳.mid	songName=三輪車_不詳	language=	singer=	sex= 	album= 	start=0	size=64	refrain= 
+midiName=midi\世上只有媽媽好_不詳.mid	songName=世上只有媽媽好_不詳	language=	singer=	sex= 	album= 	start=65	size=66	refrain= 
+midiName=midi\倫敦鐵橋垮下來_不詳.mid	songName=倫敦鐵橋垮下來_不詳	language=	singer=	sex= 	album= 	start=132	size=50	refrain= 
+midiName=midi\兩隻老虎_不詳.mid	songName=兩隻老虎_不詳	language=	singer=	sex= 	album= 	start=183	size=70	refrain= 
+midiName=midi\十個印第安人_不詳.mid	songName=十個印第安人_不詳	language=	singer=	sex= 	album= 	start=254	size=86	refrain= 
+midiName=midi\只要我長大_不詳.mid	songName=只要我長大_不詳	language=	singer=	sex= 	album= 	start=341	size=100	refrain= 
+midiName=midi\喔，蘇珊娜_不詳.mid	songName=喔，蘇珊娜_不詳	language=	singer=	sex= 	album= 	start=442	size=60	refrain= 
+midiName=midi\小星星_不詳.mid	songName=小星星_不詳	language=	singer=	sex= 	album= 	start=503	size=84	refrain= 
+midiName=midi\小毛驢_不詳.mid	songName=小毛驢_不詳	language=	singer=	sex= 	album= 	start=588	size=116	refrain= 
+midiName=midi\小茶壺_不詳.mid	songName=小茶壺_不詳	language=	singer=	sex= 	album= 	start=705	size=56	refrain= 
+midiName=midi\懶惰蟲_不詳.mid	songName=懶惰蟲_不詳	language=	singer=	sex= 	album= 	start=762	size=134	refrain= 
+midiName=midi\捉泥鰍_不詳.mid	songName=捉泥鰍_不詳	language=	singer=	sex= 	album= 	start=897	size=734	refrain= 
+midiName=midi\捕魚歌_不詳.mid	songName=捕魚歌_不詳	language=	singer=	sex= 	album= 	start=1632	size=74	refrain= 
+midiName=midi\明天會更好_不詳.mid	songName=明天會更好_不詳	language=	singer=	sex= 	album= 	start=1707	size=1232	refrain= 
+midiName=midi\歡樂年華_不詳.mid	songName=歡樂年華_不詳	language=	singer=	sex= 	album= 	start=2940	size=122	refrain= 
+midiName=midi\泥娃娃_不詳.mid	songName=泥娃娃_不詳	language=	singer=	sex= 	album= 	start=3063	size=118	refrain= 
+midiName=midi\潑水歌_不詳.mid	songName=潑水歌_不詳	language=	singer=	sex= 	album= 	start=3182	size=132	refrain= 
+midiName=midi\火車快飛_不詳.mid	songName=火車快飛_不詳	language=	singer=	sex= 	album= 	start=3315	size=78	refrain= 
+midiName=midi\王老先生有塊地_不詳.mid	songName=王老先生有塊地_不詳	language=	singer=	sex= 	album= 	start=3394	size=104	refrain= 
+midiName=midi\甜蜜的家庭_不詳.mid	songName=甜蜜的家庭_不詳	language=	singer=	sex= 	album= 	start=3499	size=168	refrain= 
+midiName=midi\生日快樂_不詳.mid	songName=生日快樂_不詳	language=	singer=	sex= 	album= 	start=3668	size=52	refrain= 
+midiName=midi\當我們同在一起_不詳.mid	songName=當我們同在一起_不詳	language=	singer=	sex= 	album= 	start=3721	size=104	refrain= 
+midiName=midi\秋蟬_不詳.mid	songName=秋蟬_不詳	language=	singer=	sex= 	album= 	start=3826	size=666	refrain= 
+midiName=midi\童年_張艾嘉.mid	songName=童年_張艾嘉	language=	singer=	sex= 	album= 	start=4493	size=162	refrain= 
+midiName=midi\綠油精_不詳.mid	songName=綠油精_不詳	language=	singer=	sex= 	album= 	start=4656	size=64	refrain= 
+midiName=midi\茉莉花_不詳.mid	songName=茉莉花_不詳	language=	singer=	sex= 	album= 	start=4721	size=134	refrain= 
+midiName=midi\萍聚_李翊君.mid	songName=萍聚_李翊君	language=	singer=	sex= 	album= 	start=4856	size=580	refrain= 
+midiName=midi\虎姑婆_不詳.mid	songName=虎姑婆_不詳	language=	singer=	sex= 	album= 	start=5437	size=194	refrain= 
+midiName=midi\蝴蝶_不詳.mid	songName=蝴蝶_不詳	language=	singer=	sex= 	album= 	start=5632	size=80	refrain= 
+midiName=midi\蝸牛與黃鸝鳥_銀霞.mid	songName=蝸牛與黃鸝鳥_銀霞	language=	singer=	sex= 	album= 	start=5713	size=194	refrain= 
+midiName=midi\西風的話_不詳.mid	songName=西風的話_不詳	language=	singer=	sex= 	album= 	start=5908	size=120	refrain= 
+midiName=midi\遊子吟_不詳.mid	songName=遊子吟_不詳	language=	singer=	sex= 	album= 	start=6029	size=84	refrain= 
+midiName=midi\長城謠_不詳.mid	songName=長城謠_不詳	language=	singer=	sex= 	album= 	start=6114	size=514	refrain= 
+midiName=midi\青春舞曲_不詳.mid	songName=青春舞曲_不詳	language=	singer=	sex= 	album= 	start=6629	size=164	refrain= 
+midiName=midi\高山青_不詳.mid	songName=高山青_不詳	language=	singer=	sex= 	album= 	start=6794	size=174	refrain= 
+midiName=midi\魚兒魚兒水中游_不詳.mid	songName=魚兒魚兒水中游_不詳	language=	singer=	sex= 	album= 	start=6969	size=94	refrain= 
+midiName=midi\魯啦啦_不詳.mid	songName=魯啦啦_不詳	language=	singer=	sex= 	album= 	start=7064	size=80	refrain= 
+midiName=midi\龍的傳人_李健復.mid	songName=龍的傳人_李健復	language=	singer=	sex= 	album= 	start=7145	size=630	refrain= 
+midiName=midi\humpty dumpty_不詳.mid	songName=humpty dumpty_不詳	language=	singer=	sex= 	album= 	start=7776	size=72	refrain= 
+midiName=midi\I'm the teapot_不詳.mid	songName=I'm the teapot_不詳	language=	singer=	sex= 	album= 	start=7849	size=124	refrain= 
+midiName=midi\skip to my lou_不詳.mid	songName=skip to my lou_不詳	language=	singer=	sex= 	album= 	start=7974	size=68	refrain= 
+midiName=midi\yankee doodle_不詳.mid	songName=yankee doodle_不詳	language=	singer=	sex= 	album= 	start=8043	size=118	refrain= 
+midiName=midi\hictory dickory dock_不詳.mid	songName=hictory dickory dock_不詳	language=	singer=	sex= 	album= 	start=8162	size=68	refrain= 
+midiName=midi\I've been working on the railroad_不詳.mid	songName=I've been working on the railroad_不詳	language=	singer=	sex= 	album= 	start=8231	size=120	refrain= 
+midiName=midi\merrily we roll along_不詳.mid	songName=merrily we roll along_不詳	language=	singer=	sex= 	album= 	start=8352	size=102	refrain= 
+midiName=midi\the farmer in the dell_不詳.mid	songName=the farmer in the dell_不詳	language=	singer=	sex= 	album= 	start=8455	size=92	refrain= 
+midiName=midi\six little ducks_不詳.mid	songName=six little ducks_不詳	language=	singer=	sex= 	album= 	start=8548	size=150	refrain= 
+midiName=midi\wheels on the bus_不詳.mid	songName=wheels on the bus_不詳	language=	singer=	sex= 	album= 	start=8699	size=54	refrain= 

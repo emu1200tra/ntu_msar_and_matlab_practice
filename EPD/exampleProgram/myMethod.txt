@@ -1,0 +1,20 @@
+﻿Please describe your findings along the following directions.
+
+The recognition rate of my program. 79.47%
+
+My method 
+
+use endPointDetect.m to recognize them.
+
+My optimization strategy 
+
+Use exhaustive search to find a good volRatio about the training data. And use it in test data.
+Although it may have larger error when using in test data, it can get faster.
+
+Error analysis 
+
+wavs with lots of noise will get bad recognition. In addition, because of the constance, so the performace will be limited with larger error.
+
+Potential direction for further improvement 
+
+find a better way to search a better volRatio.
